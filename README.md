@@ -15,4 +15,4 @@ Empleando **PSeInt** diseñe y construya un algoritmo que lea el valor de tres v
 
 ! = NOT = operador lógico negación
 
-En esta oportunidad el trabajo debe desarrollarse en *grupos de tamaño máximo (e ideal) de 3 personas*
+En esta oportunidad el trabajo debe desarrollarse en *grupos de tamaño máximo (e ideal) de 3 personas*, comparta su algoritmo en el documento [preposiciones.md]()
