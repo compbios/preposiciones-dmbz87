@@ -10,7 +10,9 @@ Empleando **PSeInt** diseñe y construya un algoritmo que lea el valor de tres v
 * !X | !Y | Z & X & !Y
 
 &  = AND = operador lógico Y
+
 | = OR = operador lógico O
+
 ! = NOT = operador lógico negación
 
 En esta oportunidad el trabajo debe desarrollarse en *grupos de tamaño máximo (e ideal) de 3 personas*
